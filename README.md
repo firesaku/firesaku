@@ -1,5 +1,5 @@
 ### Hi there 👋
-(｡･∀･)ﾉﾞ Welcome to Zeng Shijie's github.
+(｡･∀･)ﾉﾞ Welcome to Shijie Zeng's github.
 
 - 🔭 I’m currently study in Chengdu University
 - 🌱 I’m currently learning Software Engineering
