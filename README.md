@@ -3,12 +3,11 @@
 
 - 🔭 I’m currently study in Chengdu University
 - 🌱 I’m currently learning Software Engineering
-- ✨ My research interests include but not limit to **Machine Learning** (Unsupervised Learning), **Computer Vision** (Semantic Segmentation), **Causal Inference**, 
+- ✨ My research interests include but not limit to **Machine Learning** (Unsupervised Learning), **Computer Vision** (Semantic Segmentation), **Causal Inference**, **Bioinformatics**.
 - 💬 Cantact me by email: zengshijie@stu.cdu.edu.cn
 
 ![Shijie Zeng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=firesaku&show_icons=true&count_private=true&theme=gotham)
 
-**Bioinformatics**.
 
 <!--
 **firesaku/firesaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
