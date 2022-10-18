@@ -1,9 +1,12 @@
 ### Hi there 👋
 (｡･∀･)ﾉﾞ Welcome to Shijie Zeng's github.
+Click <a href="(https://firesaku.github.io/" target="_blank">here</a> to view my personal page.
+
 
 - 🔭 I’m currently study in Chengdu University
-- 🌱 I’m currently learning Software Engineering
-- ✨ My research interests include but not limit to **Bioinformatics**, **Machine Learning** (Unsupervised Learning), **Computer Vision** (Semantic Segmentation), **Causal Inference**.
+- 🌱 I’m currently learning Software Engineering, and ranks No. 1 in our majoy.
+- ✨ My research interests include but not limit to  **Machine Learning**, **Deep Learning**, **Bioinformatics**.
+- 👯  I’m seeking a PhD position for my future studies and researches.
 - 💬 Cantact me by email: zengshijie@stu.cdu.edu.cn
 
 <!--
