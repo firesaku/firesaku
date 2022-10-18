@@ -1,6 +1,7 @@
 ### Hi there 👋
+
 (｡･∀･)ﾉﾞ Welcome to Shijie Zeng's github.
-Click <a href="(https://firesaku.github.io/" target="_blank">here</a> to view my personal page.
+Click [here](https://firesaku.github.io/) to view my personal page.
 
 
 - 🔭 I’m currently study in Chengdu University
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
