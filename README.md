@@ -4,11 +4,10 @@
 Click [here](https://firesaku.github.io/) to view my personal page.
 
 
-- 🔭 I’m currently study in Chengdu University
-- 🌱 I’m currently learning Software Engineering, and ranks No. 1 in our majoy.
+- 🔭 I have already graduated from Chengdu University with a ranking of No. 1 in my major (Software Engineering).
 - ✨ My research interests include but not limit to  **Machine Learning**, **Deep Learning**, **Bioinformatics**.
-- 👯  I’m seeking a PhD position for my future studies and researches.
-- 💬 Cantact me by email: zengshijie@stu.cdu.edu.cn
+- 👯  I’m seeking a Ph.D. position for my future studies and researches.
+- 💬 Contact me by email: zengshijie@stu.cdu.edu.cn
 
 <!--
 **firesaku/firesaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
