@@ -4,9 +4,10 @@
 Click [here](https://firesaku.github.io/) to view my personal page.
 
 
-- 🔭 I have already graduated from Chengdu University with a ranking of No. 1 in my major (Software Engineering).
+- 🔭 I graduated from Chengdu University with a ranking of No. 1 in my major (Software Engineering).
+- 🌱 I’m currently pursuing my master's degree at the University of Malaya (QS Ranking: 60)
 - ✨ My research interests include but not limit to  **Machine Learning**, **Deep Learning**, **Bioinformatics**.
-- 👯  I’m seeking a Master / Ph. D. position for my future studies and researches.
+- 👯  I’m seeking a Master / Ph. D. position for my future studies and research.
 - 💬 Contact me by email: shijiezeng.edu@gmail.com
 
 <!--
